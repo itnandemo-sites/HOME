@@ -6,7 +6,7 @@ body {
 
 /* ページ最上部のリンク */
 .top-links {
-  background-color: #ffeb3b; /* 黄色背景で目立たせる */
+  background-color: white; /* 黄色背景で目立たせる */
   padding: 10px;
   text-align: center;
   font-weight: bold;
